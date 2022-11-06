@@ -1,2 +1,2 @@
-# Aprendizagem Git GitHub
- Materiais utilizados na aprendizagem do Git e GitHub
+# Aprendizagem Git e GitHub
+ Materiais utilizados na aprendizagem do Git e GitHub.
